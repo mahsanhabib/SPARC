@@ -1,3 +1,6 @@
+# SPRARC
+
+
 To run the SPARC successfully:
 ------------------------------------
     1. Decise to use LOCAL or GLOBAL IP 
@@ -7,3 +10,6 @@ To run the SPARC successfully:
     5. Run "python server.py" to each machine/shard
     6. Run "python client.py --shard_index 0/1/...." to each shard/machine
     7. Upon completion of all shards - Run "python result_calc.py" to calculate the result
+
+
+Data will be made available upon request.
